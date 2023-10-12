@@ -1,4 +1,4 @@
-# My-DA-Projects
+# My-DA-Project
 Take a look at my sql data analysis project here!!
 
 SQL Data Analysis Project: Business Case_ Target SQL.pdf
